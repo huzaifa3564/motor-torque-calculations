@@ -6,7 +6,8 @@ body {
 nav {
     background-color: blueviolet;
     color: white;
-    padding: 20px;
+    padding: 0 2rem;
+    height: 3rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
